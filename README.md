@@ -35,6 +35,11 @@ Think of your software and its users as a race car. When problems arise (bugs, e
 
 Delivery Layers: Your Pit Crew's Expertise
 
+L1 (Level 1): These are the first responders, like the jack crew in a pit stop. They handle common, well-defined problems that often have quick solutions. They might reset configurations, restart services, or provide basic troubleshooting steps.
+L2 (Level 2): They're the more experienced technicians, like the tire changers. They tackle issues that require deeper investigation or go beyond basic troubleshooting. L2 engineers might analyze logs, diagnose root causes, or implement workarounds.
+L3 (Level 3): These are the pit crew's experts, like the engine specialists. They deal with intricate problems requiring advanced knowledge or specialized skills. L3 engineers might fix complex bugs, perform in-depth debugging, or involve developers in resolving coding issues.
+
+
 In the world of software development, there are a few documents that get tossed around to initiate projects and define expectations. Here's a breakdown of RFI, RFP, REQ, and SOW in a way that's easy to understand for an entry-level software engineer:
 
 **RFI (Request for Information):**
@@ -85,6 +90,3 @@ An SOW typically includes:
 
 As an entry-level software engineer, you might be involved in understanding requirements (REQs) and working on tasks defined in the SOW. You might also encounter RFIs for clarification and contribute to RFP responses if your company is bidding on new projects.
 
-L1 (Level 1): These are the first responders, like the jack crew in a pit stop. They handle common, well-defined problems that often have quick solutions. They might reset configurations, restart services, or provide basic troubleshooting steps.
-L2 (Level 2): They're the more experienced technicians, like the tire changers. They tackle issues that require deeper investigation or go beyond basic troubleshooting. L2 engineers might analyze logs, diagnose root causes, or implement workarounds.
-L3 (Level 3): These are the pit crew's experts, like the engine specialists. They deal with intricate problems requiring advanced knowledge or specialized skills. L3 engineers might fix complex bugs, perform in-depth debugging, or involve developers in resolving coding issues.
