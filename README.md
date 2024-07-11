@@ -174,6 +174,39 @@ Typically involves a defined workflow with stages like:
 - **Deployment & Monitoring:** Deployment of the change to production and close monitoring for any issues.
 - **Closure:** Documentation of the change process, lessons learned, and post-implementation review.
 
+The main differences between standard, normal, and emergency change requests lie in their urgency, risk level, and approval process:
+
+**Standard Change Request:**
+
+* **Pre-approved:**  These are low-risk, routine changes that have already been reviewed and authorized by a Change Advisory Board (CAB) or similar body. 
+* **Minimal Process:**  They often have a simplified approval process or may not require individual approval at all.  Some organizations may even automate standard changes.
+* **Examples:** Updating software patches, adding a new user account with standard permissions, replacing aging hardware with the same model.
+
+**Normal Change Request:**
+
+* **Full Review:**  These are non-emergency changes that require a full assessment and approval process. 
+* **Varied Risk:**  The risk level can vary from low to medium, and the impact on IT services can range from minimal to moderate.
+* **Standard Process:**  They follow a defined change management process, which typically involves submitting a request, risk assessment, scheduling, and final approval from the CAB.
+* **Examples:**  Installing new software, modifying network configurations, adding a new server.
+
+**Emergency Change Request:**
+
+* **Urgent Action:**  These are required to address critical issues that pose an immediate threat to business operations, such as security vulnerabilities or system outages. 
+* **High Risk:**  They typically involve high risk and require immediate action to minimize downtime or damage. 
+* **Expedited Process:**  The approval process is bypassed or significantly shortened to allow for a faster response. However, documentation and post-implementation review are still crucial.
+* **Examples:**  Responding to a major security breach, restoring a critical system after a failure, implementing a hotfix for a critical bug.
+
+
+Here's a table summarizing the key points:
+
+| Feature                 | Standard Change Request | Normal Change Request | Emergency Change Request |
+|-------------------------|-------------------------|-------------------------|---------------------------|
+| Approval Process        | Pre-approved              | Full Review              | Expedited                |
+| Risk Level               | Low                       | Low to Medium            | High                       |
+| Urgency                  | Low                       | Non-urgent               | Urgent                     |
+| Examples                 | Patches, User Accounts     | New Software, Network Config  | Security Breach, System Outage |
+
+
 Example
 
 Upgrading a company's customer relationship management (CRM) system.
