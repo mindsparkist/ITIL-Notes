@@ -275,8 +275,25 @@ Creating Problem
 
 Creating Knowledge article
 
+A problem ticket in ServiceNow, also known as a problem record, is directly tied to the concept of **problem management** within the ITIL framework.
 
+Here's the breakdown:
 
-|CHAKRABORTY, SHUVRADIP|2|
-| -: | :-: |
+* **Purpose:**  Problem tickets help identify the underlying cause of recurring incidents and service disruptions. 
+* **Focus:**  Unlike incident tickets that address specific occurrences, problem tickets aim to prevent future issues by finding the root cause. 
+* **Creation:** Problem tickets can be created in a few ways:
+    * **From Incidents:** The service desk might identify a need for further investigation after encountering repeated incidents and initiate a problem ticket.
+    * **Proactive Approach:** IT teams can proactively create problem tickets if diagnostics reveal potential problems before they cause incidents. 
+* **Information:** Problem tickets typically include details like:
+    * Description of the issue
+    * Affected systems or services
+    * Related incident records (if any)
+    * Progress updates during the investigation
 
+**Benefits of Problem Tickets:**
+
+* **Reduced Downtime:** By addressing root causes, problem management helps prevent recurring incidents and minimizes service disruptions.
+* **Improved Efficiency:**  Resolving the underlying issue prevents IT teams from wasting time fixing the same symptoms repeatedly.
+* **Proactive Approach:**  Problem management enables a proactive approach to IT service management, focusing on preventing problems rather than just reacting to incidents.
+
+**In essence, problem tickets are like detective work in ServiceNow. They help diagnose the root cause of IT troubles and prevent future headaches!**
