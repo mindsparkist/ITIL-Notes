@@ -297,3 +297,29 @@ Here's the breakdown:
 * **Proactive Approach:**  Problem management enables a proactive approach to IT service management, focusing on preventing problems rather than just reacting to incidents.
 
 **In essence, problem tickets are like detective work in ServiceNow. They help diagnose the root cause of IT troubles and prevent future headaches!**
+
+
+Parent and child tickets in ServiceNow establish a hierarchical relationship between incident reports. This helps track complex issues with multiple interrelated parts.
+
+Here's how it works:
+
+* **Parent Ticket:** This is the main incident record representing the overarching issue. It typically captures the high-level problem affecting multiple users or services.
+* **Child Ticket:** These are individual incident reports that detail specific aspects or symptoms related to the parent issue. Each child ticket focuses on a smaller piece of the puzzle contributing to the bigger problem.
+
+**Benefits of Parent-Child Relationships:**
+
+* **Improved Organization:**  Breaking down a complex issue into smaller, more manageable parts makes troubleshooting and resolution easier.
+* **Centralized View:**  The parent ticket provides a central location for all related information, offering a complete picture of the overall problem. 
+* **Streamlined Communication:**  Updates made on the parent ticket automatically cascade down to child tickets, improving communication and information flow.
+* **Efficient Resolution:**  By resolving child tickets contributing to the parent issue, technicians can effectively address the root cause and close the parent ticket.
+
+**Here's an Example:**
+
+Imagine a network outage affecting multiple departments (parent ticket). Each department experiencing issues might have a separate child ticket detailing specific symptoms like "no internet access" or "slow email performance." Resolving these child tickets (fixing network issues) would ultimately resolve the parent ticket (network outage).
+
+**How to Create Parent-Child Tickets:**
+
+* You can designate an existing incident as a parent by marking the "Is Child" checkbox and selecting the relevant parent incident number.
+*  Alternatively, when creating a new incident, you can specify the parent ticket during the creation process.
+
+**Overall, parent-child ticketing in ServiceNow helps organize complex issues, streamline workflows, and expedite resolution.**
