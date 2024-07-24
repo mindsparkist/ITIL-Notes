@@ -113,3 +113,8 @@ Here's what ASA reflects:
 * **Service Level Agreements (SLAs):**  Many contact centers have SLAs defining their target ASA for customer calls.
 
 A high ASA can be desirable, indicating good accessibility for callers.  However, context matters. An excessively high ASA might suggest understaffing, leading to rushed interactions or longer wait times once connected. 
+
+
+Here's an analogy to illustrate the difference:
+
+Imagine you're planning a road trip (your KRA). Your destination (increasing brand awareness) is your overall objective. However, you need specific milestones (KPIs) to track your progress. These milestones could be the number of miles driven each day or reaching specific landmarks along the way.
