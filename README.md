@@ -90,3 +90,26 @@ An SOW typically includes:
 
 As an entry-level software engineer, you might be involved in understanding requirements (REQs) and working on tasks defined in the SOW. You might also encounter RFIs for clarification and contribute to RFP responses if your company is bidding on new projects.
 
+## Mean Time to Resolve (MTTR)
+
+**MTTR** stands for **Mean Time to Resolve**. It's a key metric used to measure the average time it takes to resolve an incident (like a system outage, service disruption, or customer issue) from the moment it's first identified to when it's fully resolved. 
+
+Here's a breakdown of what MTTR considers:
+
+* **Time to identify the problem:** This includes the initial detection of the incident and diagnosis of the root cause.
+* **Time to fix the problem:**  This involves implementing a solution to address the incident.
+* **Time to verify the fix:**  This ensures the solution has effectively resolved the issue and the system is functioning normally again.
+
+A lower MTTR indicates a more efficient incident management process, with faster resolution times minimizing downtime and impact on users or operations.
+
+## Call Answer Rate (ASA)
+
+**ASA** stands for **Call Answer Rate**. It's a metric used in contact centers to measure the percentage of incoming calls that are answered by a representative within a specific timeframe (e.g., within 30 seconds).
+
+Here's what ASA reflects:
+
+* **Staffing Levels:** A higher ASA might indicate sufficient staffing to handle incoming calls promptly. 
+* **Call Volume:** During high call volumes, ASA might dip due to limited resources to answer every call immediately.
+* **Service Level Agreements (SLAs):**  Many contact centers have SLAs defining their target ASA for customer calls.
+
+A high ASA can be desirable, indicating good accessibility for callers.  However, context matters. An excessively high ASA might suggest understaffing, leading to rushed interactions or longer wait times once connected. 
