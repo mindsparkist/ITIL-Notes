@@ -117,4 +117,6 @@ A high ASA can be desirable, indicating good accessibility for callers.  However
 
 Here's an analogy to illustrate the difference:
 
+## KPI And KRA
+
 Imagine you're planning a road trip (your KRA). Your destination (increasing brand awareness) is your overall objective. However, you need specific milestones (KPIs) to track your progress. These milestones could be the number of miles driven each day or reaching specific landmarks along the way.
