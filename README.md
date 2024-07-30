@@ -120,3 +120,32 @@ Here's an analogy to illustrate the difference:
 ## KPI And KRA
 
 Imagine you're planning a road trip (your KRA). Your destination (increasing brand awareness) is your overall objective. However, you need specific milestones (KPIs) to track your progress. These milestones could be the number of miles driven each day or reaching specific landmarks along the way.
+
+
+## MIR: Major Incident Response
+
+**MIR** stands for **Major Incident Response**. It's a specific subset of incident management that focuses on high-impact events that significantly disrupt IT services or business operations.
+
+### Difference Between MIR and Regular Incident
+
+While all incidents disrupt IT services to some extent, a **major incident** is distinguished by its severity and impact.
+
+| Feature | Regular Incident | Major Incident (MIR) |
+|---|---|---|
+| **Impact** | Limited to specific users or systems | Affects critical business functions or a large number of users |
+| **Priority** | High or medium | Critical |
+| **Response Team** | Regular IT support team | Dedicated MIR team with cross-functional representation |
+| **Process** | Follows standard incident management procedures | Adheres to a specialized MIR plan with defined roles and responsibilities |
+| **Communication** | Internal and external stakeholders might be informed | Extensive communication with stakeholders, including executive management and customers |
+
+**Key Characteristics of a Major Incident:**
+
+* **High severity:** Significant impact on business operations.
+* **Widespread disruption:** Affecting multiple systems or users.
+* **Potential for financial loss:** Could result in significant revenue loss or damage to reputation.
+* **Requires executive attention:** Often needs involvement from senior management.
+
+**MIR** involves a more structured and coordinated approach, with dedicated resources and clear escalation paths. The goal is to minimize the impact of the incident, restore services as quickly as possible, and implement measures to prevent recurrence.
+
+**Would you like to know more about the MIR process or how to create an MIR plan?** 
+
