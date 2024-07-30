@@ -149,3 +149,52 @@ While all incidents disrupt IT services to some extent, a **major incident** is 
 
 **Would you like to know more about the MIR process or how to create an MIR plan?** 
 
+## Problem Ticket vs. Major Incident
+
+### Problem Ticket
+A **problem ticket** is created to identify the **root cause** of one or more incidents. It focuses on preventing future occurrences of similar incidents. 
+
+* **Reactive:** It's created in response to one or more incidents.
+* **Focus:** Identifying the underlying cause of the issue.
+* **Goal:** Prevent similar incidents from happening again.
+* **Timeframe:** Typically longer than incident resolution.
+
+### Major Incident
+A **major incident** is a high-impact event that significantly disrupts IT services or business operations. It requires an immediate and coordinated response.
+
+* **Proactive:** Requires immediate attention and a dedicated response team.
+* **Focus:** Restoring normal service operation as quickly as possible.
+* **Impact:** Widespread and severe disruption to business operations.
+* **Timeframe:** Requires immediate resolution.
+
+**In summary:**
+
+* **Problem tickets** are about finding the *why* of an incident to prevent recurrence.
+* **Major incidents** are about resolving the *now* of a critical service disruption.
+
+Often, a major incident will lead to a problem ticket being raised to investigate the root cause and prevent future occurrences. 
+ 
+**Would you like to know more about how these are handled in an ITIL framework?**
+
+## Who Creates a Major Incident?
+
+**A major incident is typically escalated from a regular incident.** It's when a standard incident escalates to a level of severity that demands a more coordinated and focused response.
+
+### The process usually involves:
+1. **Incident Creation:** A regular incident is logged by a user or system.
+2. **Incident Escalation:** As the incident's impact grows or its resolution becomes complex, it might be escalated to a higher level.
+3. **Major Incident Declaration:** Based on predefined criteria (e.g., number of affected users, financial impact, or service disruption), the incident is classified as a major incident. This is often done by an incident manager or a designated escalation point.
+
+### Key Roles in Major Incident Creation
+
+* **Incident Manager:** Responsible for assessing the incident's impact and deciding if it warrants escalation to a major incident.
+* **Technical Support:** Provides information about the incident's technical details and impact.
+* **Business Stakeholders:** Can provide input on the business impact of the incident and its priority.
+
+**It's important to note that not all incidents become major incidents.** The decision to escalate should be based on clear criteria to avoid unnecessary escalation and resource allocation.
+
+**Would you like to know more about the criteria for escalating an incident to a major incident?**
+
+
+
+
