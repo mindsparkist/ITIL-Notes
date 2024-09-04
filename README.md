@@ -277,4 +277,56 @@ By following a well-defined MIR process and having a comprehensive plan in place
 
 **Would you like to delve deeper into specific roles within an MIR team or explore examples of MIR metrics?**
 
+## Understanding MIR and Its Relationship to L1 and Service Desk
+
+**Major Incident Response (MIR)** is a critical process within IT Service Management (ITSM) designed to handle high-impact events that significantly disrupt IT services or business operations. It involves a coordinated and structured approach to address these critical incidents quickly and effectively.
+
+### How MIR is Raised
+
+* **Incident Escalation:** Typically, a major incident is escalated from a regular incident. As the impact or severity of an incident increases, it might be escalated to a higher level, eventually reaching the MIR threshold.
+* **Direct Reporting:** In some cases, major incidents might be reported directly, especially if they have a significant immediate impact (e.g., a system-wide outage).
+
+### Role of L1 and Service Desk
+
+**L1 (Level 1) Support** or the **Service Desk** is often the first point of contact for users experiencing IT issues. They play a crucial role in identifying and triaging incidents.
+
+* **Incident Identification:** L1 support staff receive incident reports from users and assess their severity.
+* **Initial Troubleshooting:** They attempt to resolve basic issues using standard procedures and knowledge base articles.
+* **Escalation:** If the issue cannot be resolved at L1, it is escalated to higher levels of support, including the MIR team.
+
+**When an incident is escalated to a major incident, the L1 or service desk team:**
+
+* **Provides Initial Information:** They gather relevant details about the incident, such as the affected systems, impact on users, and any error messages.
+* **Communicates with Stakeholders:** They inform relevant stakeholders, including users, management, and other IT teams.
+* **Assists the MIR Team:** They continue to provide support and information to the MIR team as needed.
+
+**In summary:**
+
+* **L1/Service Desk** is often the first line of defense for IT incidents.
+* When an incident escalates to a major incident, L1 plays a vital role in providing initial information and support to the MIR team.
+* The MIR team then takes over the incident, coordinating a more comprehensive response and leveraging additional resources to resolve the issue quickly and effectively.
+
+**Would you like to know more about the specific roles and responsibilities within an MIR team?**
+
+**Example of an MIR Escalation:**
+
+**Scenario:** A major network outage occurs, affecting multiple critical systems and impacting a large number of users.
+
+**Steps:**
+
+1. **User Reports:** Users start reporting connectivity issues and system outages.
+2. **L1 Support:** L1 technicians receive a flood of incident tickets and begin troubleshooting. They identify the issue as a widespread network outage.
+3. **Escalation to L2:** Due to the severity and widespread impact, the L1 team escalates the incident to L2 support.
+4. **L2 Assessment:** L2 engineers investigate the issue further, confirming it's a major network outage affecting multiple systems.
+5. **MIR Trigger:** Based on pre-defined criteria (e.g., number of affected users, criticality of impacted systems), the L2 team determines that the incident meets the criteria for a major incident and triggers the MIR process.
+
+**Once the MIR is triggered:**
+
+* **MIR Team Activation:** The dedicated MIR team is notified and assembled.
+* **Communication Plan:** A communication plan is activated to inform stakeholders, including management, users, and other departments.
+* **Root Cause Analysis:** The MIR team focuses on identifying the root cause of the outage.
+* **Recovery Plan:** A recovery plan is developed and implemented to restore network connectivity and services.
+* **Post-Incident Review:** After the issue is resolved, a thorough review is conducted to identify lessons learned and prevent similar incidents in the future.
+
+**In this example, the MIR was triggered due to the widespread impact of the network outage and the potential for significant business disruption.**
 
