@@ -684,3 +684,28 @@ By understanding these concepts, you can better manage and track service request
 
 **Would you like to know more about how these concepts are used in specific scenarios or how to configure them in ServiceNow?**
 
+**Scenario: New User Onboarding**
+
+**REQ:** A new employee joins the company and needs to be onboarded onto the company's IT systems.
+
+**RITMs:**
+
+* Create a new user account in the Active Directory.
+* Provision access to necessary applications and systems.
+* Set up the employee's email account.
+* Assign the employee to appropriate security groups.
+* Provide the employee with a company device and configure it.
+
+**SCTASK (if applicable):**
+
+* If the onboarding process involves a standardized workflow or service from the Service Catalog, an SCTASK might be created to automate or streamline certain steps.
+
+**In this example:**
+
+* The **REQ** is the overall request to onboard the new employee.
+* The **RITMs** are the specific tasks that need to be completed to onboard the employee.
+* If there's a predefined service for new user onboarding in the Service Catalog, an **SCTASK** might be created to automate some of the steps, such as creating the user account and assigning permissions.
+
+**By breaking down the onboarding process into smaller, manageable tasks (RITMs), it becomes easier to track progress, assign responsibilities, and ensure that all necessary steps are completed.**
+
+
