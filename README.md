@@ -415,4 +415,30 @@ In IT contexts, ETA can refer to:
 
 **Would you like to know more about how ETAs are used in specific technical contexts?**
 
+**Key Responsibility Areas (KRAs) vs. Key Performance Indicators (KPIs):**
+
+While both KRAs and KPIs are important for evaluating performance, they serve different purposes:
+
+**KRAs (Key Responsibility Areas):**
+
+* **Broader Scope:** KRAs define the overall responsibilities and areas of focus for an individual or team.
+* **Qualitative:** They are often described in qualitative terms, outlining what needs to be accomplished.
+* **Foundation:** KRAs form the foundation for setting specific performance goals.
+
+**Example:** A software developer's KRAs might include "delivering high-quality code on time" and "collaborating effectively with the team."
+
+**KPIs (Key Performance Indicators):**
+
+* **Specific Metrics:** KPIs are quantifiable metrics used to measure performance against KRAs.
+* **Measurable:** KPIs are specific, measurable, achievable, relevant, and time-bound (SMART).
+* **Evaluation:** They are used to assess whether an individual or team is meeting expectations and achieving goals.
+
+**Example:** A KPI for the software developer's KRA of delivering high-quality code could be "reducing the number of defects per 1,000 lines of code by 20%."
+
+**In essence:**
+
+* **KRAs** outline the *what* of performance (responsibilities).
+* **KPIs** measure the *how well* those responsibilities are being fulfilled.
+
+**Both KRAs and KPIs are essential for effective performance management and alignment with organizational goals.**
 
