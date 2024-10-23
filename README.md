@@ -507,3 +507,20 @@ A knowledge base is a centralized repository that stores and organizes knowledge
 * "Please don't hesitate to contact us if you have any further questions or require additional assistance."
 * "We appreciate your understanding and cooperation."
 
+**On-call/Third-line support** refers to a level of technical support that is available 24/7, often outside of regular business hours. It's typically reserved for critical issues that cannot be resolved by lower-level support teams.
+
+**Key characteristics of on-call/third-line support:**
+
+* **Availability:** Support engineers are available around the clock to respond to urgent issues.
+* **Expertise:** Third-line support engineers typically have advanced technical skills and experience.
+* **Complex Issues:** They handle complex issues that require in-depth troubleshooting and problem-solving.
+* **Escalation:** Issues are escalated to third-line support when they cannot be resolved by lower-level teams.
+
+**Common scenarios where on-call support is required:**
+
+* **System outages:** When critical systems or applications are down.
+* **Data breaches:** Security incidents that require immediate attention.
+* **Major software or hardware failures:** Critical technical problems that cannot be resolved during regular business hours.
+
+**On-call support is essential for ensuring business continuity and minimizing downtime.** It's often a specialized role within IT organizations, requiring engineers to be on standby and ready to respond to urgent issues at any time.
+
