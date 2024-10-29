@@ -747,23 +747,7 @@ By effectively managing SLAs, OLAs, SLIs, and KPIs, organizations can improve th
 
 **Service Level Objective (SLO)**
 
-An SLO is a target value or range of values for a service level that is measured by an SLI (Service Level Indicator). It's a key element of a Service Level Agreement (SLA) between a service provider and a customer.
-
-**Here's a simple example:**
-
-If an SLA states that a website should have 99.9% uptime, the corresponding SLO might be:
-
-* **SLI:** Website uptime
-* **SLO:** The website should be available 99.9% of the time.
-
-**Why are SLOs important?**
-
-* **Clear expectations:** SLOs define clear expectations for service performance.
-* **Improved accountability:** They hold teams accountable for meeting specific targets.
-* **Data-driven decision-making:** SLOs provide data-driven insights to identify areas for improvement.
-* **Enhanced customer satisfaction:** By meeting SLOs, organizations can deliver reliable and high-quality services.
-
-**In essence, SLOs are a crucial tool for ensuring that services meet the needs of customers and businesses.**
+An SLO is an agreement with product stakeholders on how reliable the product is. 
 
 
 
