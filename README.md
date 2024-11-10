@@ -323,3 +323,168 @@ Imagine a network outage affecting multiple departments (parent ticket). Each de
 *  Alternatively, when creating a new incident, you can specify the parent ticket during the creation process.
 
 **Overall, parent-child ticketing in ServiceNow helps organize complex issues, streamline workflows, and expedite resolution.**
+
+
+SLA For SNOW
+Link - https://www.youtube.com/watch?v=vjPFVcL248s
+
+What is SLA? 
+
+- It is basically a set of agreements between a
+service provider and customer that defige the
+scope, quality and speed of the services being
+provided.
+
+SLA VS OLA VS UC
+
+Let me explain the key differences between SLAs, OLAs, and UCs in service management:
+
+1. SLA (Service Level Agreement)
+- External agreement between a service provider and its customers
+- Defines expected service quality, availability, responsibilities
+- Example: "99.9% system uptime, 24-hour response time for critical issues"
+- Focused on end-user experience and business outcomes
+
+2. OLA (Operational Level Agreement)
+- Internal agreement between different departments/teams within an organization
+- Supports the SLA by defining how teams work together
+- Example: "IT Infrastructure team will respond to Network team requests within 2 hours"
+- Details specific operational metrics and responsibilities
+
+3. UC (Underpinning Contract)
+- Agreement between an organization and external third-party suppliers/vendors
+- Ensures external support for delivering SLAs
+- Example: "Cloud provider guarantees 99.99% infrastructure availability"
+- Defines vendor obligations, penalties, and support terms
+
+Key relationships:
+- SLAs are supported by OLAs and UCs
+- OLAs coordinate internal teams to meet SLA requirements
+- UCs ensure external vendors provide necessary support
+
+
+Configure SLA in SNOW?
+https://youtu.be/vjPFVcL248s?t=189
+
+Difference between "Response" and "Resolution" SLA?
+
+Response and Resolution SLAs are two distinct but related metrics in service management:
+
+Response SLA:
+
+- Measures the time taken to initially acknowledge/respond to an incident/request
+- Usually involves first contact with the customer
+- Example: "High priority tickets must receive first response within 30 minutes"
+- Typically includes:
+  - Auto-reply confirmations
+  - Initial ticket assignment
+  - First human contact
+  - Basic ticket categorization
+
+Resolution SLA:
+- Measures the total time taken to completely solve the issue
+- Tracks from ticket creation to final resolution
+- Example: "Critical incidents must be resolved within 4 hours"
+- Includes:
+  - Investigation time
+  - Implementation of solution
+  - Customer verification
+  - Ticket closure
+
+Common Structure:
+Priority | Response Time | Resolution Time
+Critical | 30 minutes   | 4 hours
+High     | 1 hour       | 8 hours
+Medium   | 4 hours      | 24 hours
+Low      | 8 hours      | 48 hours
+
+Note: The clock may "pause" during:
+- Customer response waiting time
+- After-hours periods (if not 24/7 support)
+- Scheduled maintenance windows
+
+Different Stages of SLA?
+
+Different Stages of SLA's:
+
+•In Progress
+- Achieved (can be identified through "has breached" field)
+- Breached (can be identified through "has breached" field and with red filled
+circle displayed in Stage field)
+•Paused
+•Competed
+•Cancelled
+
+Actual Elapsed Time VS Business  Elapsed Time
+
+Let me explain the key differences between Actual Elapsed Time and Business Elapsed Time:
+
+Actual Elapsed Time (AET):
+- Also known as "Calendar Time" or "Clock Time"
+- Measures time continuously (24/7/365)
+- Includes ALL time periods:
+  - Weekends
+  - Holidays
+  - After-hours
+  - Lunch breaks
+- Example: If a ticket is created Friday at 5 PM and resolved Monday at 9 AM
+  - AET = 64 hours (includes entire weekend)
+
+Business Elapsed Time (BET):
+- Also known as "Business Hours" or "Working Hours"
+- Only counts time during defined business hours
+- Excludes:
+  - Non-working hours
+  - Weekends
+  - Public holidays
+  - Scheduled maintenance windows
+- Example: If a ticket is created Friday at 5 PM and resolved Monday at 9 AM
+  - BET = 1 hour (assuming 9 AM-5 PM business hours)
+  - Only counts the 1 hour on Monday morning
+
+Important Considerations:
+1. SLAs typically use BET for calculations
+2. Different support levels may have different business hours:
+   - Standard: 9 AM-5 PM, Mon-Fri
+   - Extended: 8 AM-8 PM, Mon-Sat
+   - 24/7: AET and BET would be the same
+
+What is "Retroactive start" in SLA's?
+
+Link - https://www.youtube.com/watch?v=tY098MB7bTE
+
+A Retroactive Start in SLAs refers to when the SLA clock begins counting from a time before the actual ticket creation or assignment. Here's a detailed explanation:
+
+Definition:
+- SLA timer starts counting from a point in the past
+- Often used to account for system delays or customer wait times
+- Can be applied to both Response and Resolution SLAs
+
+Common Use Cases:
+1. Email Delays
+   - Customer sends email at 9:00 AM
+   - System creates ticket at 9:15 AM
+   - SLA retroactively starts at 9:00 AM
+
+2. Phone Support
+   - Customer waits in queue for 10 minutes
+   - Ticket created after agent answers
+   - SLA includes queue waiting time
+
+3. System Outages
+   - System goes down at 2:00 PM
+   - Ticket created at 2:30 PM
+   - SLA clock starts at 2:00 PM
+
+Benefits:
+- More accurate reflection of actual customer wait time
+- Better measurement of true service quality
+- Fairer accountability for support teams
+- Helps identify system delays and bottlenecks
+
+Example Setup:
+- Ticket created: 10:30 AM
+- First customer contact time: 10:15 AM
+- Retroactive start applied
+- SLA clock begins: 10:15 AM
+
