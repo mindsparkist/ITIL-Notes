@@ -489,3 +489,53 @@ Example Setup:
 - Retroactive start applied
 - SLA clock begins: 10:15 AM
 
+Reset Condition in SLA s
+
+Reset Conditions in SLAs are specific triggers or events that restart the SLA timer. Here's a detailed breakdown:
+
+Common Reset Conditions:
+
+1. Status Changes
+- Pending Customer → In Progress
+- Reopened ticket
+- Moving from Resolved back to Active
+- Escalation to different support level
+
+2. Priority Changes
+- Ticket priority updated (High → Critical)
+- Severity level modification
+- Impact assessment changes
+
+3. Customer Actions
+- New information provided
+- Response to clarification request
+- Additional requirements added
+- Customer reopens closed ticket
+
+4. Technical Scenarios
+- Multiple related incidents merged
+- Ticket reassignment to different team
+- Major scope change
+- System dependencies identified
+
+Examples:
+```
+Initial Timeline:
+- Ticket Created: 9:00 AM
+- SLA Target: 4 hours (1:00 PM)
+
+Reset Scenario 1 (Status Change):
+- Customer sets to Pending at 10:00 AM
+- Customer responds at 11:00 AM
+- SLA resets, new target: 3:00 PM
+
+Reset Scenario 2 (Priority Change):
+- Priority changed from Medium to High at 10:30 AM
+- SLA resets with new High priority timeline
+```
+
+Best Practices:
+1. Clearly document reset conditions
+2. Notify relevant parties when reset occurs
+3. Track original and reset times
+4. Maintain reset history for reporting
