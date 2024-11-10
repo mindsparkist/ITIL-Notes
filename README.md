@@ -1,3 +1,48 @@
+# ITSM/ITIL
+
+ITSM (IT Service Management):
+- Focuses on delivering IT services to end users
+- Customer/service-oriented approach
+- Deals with front-end service delivery
+
+Key Components:
+1. Service Desk/Help Desk
+2. Incident Management
+3. Problem Management
+4. Change Management
+5. Service Level Management
+6. Request Fulfillment
+7. Knowledge Management
+
+ITOM (IT Operations Management):
+- Focuses on backend infrastructure & operations
+- Technology/infrastructure-oriented approach
+- Deals with maintaining IT infrastructure
+
+Key Components:
+1. Infrastructure Monitoring
+2. Network Management
+3. Capacity Planning
+4. Performance Management
+5. Availability Management
+6. Configuration Management
+7. Automation & Orchestration
+
+Relationship:
+```
+ITOM supports ITSM:
+- ITOM ensures infrastructure availability
+- ITSM ensures service delivery
+```
+
+Example Scenario:
+1. ITOM: Monitors server performance
+2. ITOM: Detects server issue
+3. ITSM: Creates incident ticket
+4. ITSM: Manages communication with users
+5. ITOM: Implements technical fix
+6. ITSM: Confirms resolution with users
+
 # ITIL-Notes
 ITIL-Notes
 
