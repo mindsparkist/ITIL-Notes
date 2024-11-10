@@ -396,7 +396,7 @@ Priority | Response Time | Resolution Time
 Critical | 30 minutes   | 4 hours
 High     | 1 hour       | 8 hours
 Medium   | 4 hours      | 24 hours
-Low      | 8 hours      | 48 hours
+Low      | 8 hours      | 48 hours|
 
 Note: The clock may "pause" during:
 - Customer response waiting time
