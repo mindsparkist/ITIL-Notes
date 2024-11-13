@@ -641,3 +641,28 @@ IT Service Desk Agent:
 In summary, the manager oversees the entire incident management process, the shift lead coordinates the daily operations, and the agents handle the frontline incident response and resolution. Effective collaboration between these roles is crucial for providing efficient and high-quality incident management services.
 
 
+A problem ticket is a type of incident ticket that is created to investigate and address the underlying cause of recurring or complex incidents, rather than just resolving the immediate symptoms.
+
+The key differences between a problem ticket and a regular incident ticket are:
+
+When to Create a Problem Ticket:
+- Recurring incidents - When the same or similar incident keeps happening repeatedly
+- Complex incidents - When the root cause of an incident is not easily identifiable or fixable
+- Major incidents - When a high-impact incident occurs that requires in-depth analysis
+
+Purpose of a Problem Ticket:
+- Identify the root cause of the recurring or complex issue
+- Implement a permanent fix or workaround to prevent future occurrences
+- Improve the organization's overall resilience and service quality
+
+Key Activities in a Problem Ticket:
+- In-depth investigation and analysis of incident data and patterns
+- Engaging subject matter experts and technical teams to diagnose the issue
+- Testing and evaluating potential solutions or changes
+- Documenting findings, risks, and recommended remediation actions
+- Planning and coordinating the implementation of a permanent fix
+- Validating the effectiveness of the solution through further monitoring
+
+By creating dedicated problem tickets, the organization can move beyond just resolving individual incidents and instead focus on addressing the underlying problems. This more proactive approach helps reduce the overall incident volume and improve the stability and reliability of IT services.
+
+
