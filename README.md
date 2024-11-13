@@ -892,6 +892,8 @@ Here are the main knowledge sources typically used in Knowledge Management:
 
 All these sources contribute to building a comprehensive knowledge base that supports effective service delivery and continuous improvement.
 
+![ITIL Notes Screenshot](https://github.com/mindsparkist/ITIL-Notes/blob/SNOW-ITIL/Screenshot_20241114_015538_YouTube.jpg)
+
 Yes, you're correct. Let me explain the lifecycle and validity periods of knowledge articles:
 
 Article Status Timeline:
@@ -945,7 +947,8 @@ Best Practices:
 - Notification system for upcoming expirations
 - Audit trail of status changes
 
-![ITIL Notes Screenshot](https://github.com/mindsparkist/ITIL-Notes/blob/SNOW-ITIL/Screenshot_20241114_015538_YouTube.jpg)
+![ITIL Notes Screenshot](https://raw.githubusercontent.com/mindsparkist/ITIL-Notes/SNOW-ITIL/Screenshot_20241114_020029_YouTube.jpg)
+
 
 This lifecycle management ensures that knowledge base content remains current and relevant while maintaining historical information when needed.
 
