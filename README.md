@@ -556,3 +556,88 @@ Best Practices:
 2. Notify relevant parties when reset occurs
 3. Track original and reset times
 4. Maintain reset history for reporting
+
+Certainly, here are some examples of incident priority levels from P1 (highest) to P5 (lowest):
+
+P1 - Critical/Urgent:
+- Complete system outage that impacts all users/customers
+- Critical business function or revenue-generating service is down
+- Data breach or security incident with immediate threat
+- Major production issue causing significant financial or reputational damage
+
+P2 - High:
+- Severe degradation of a core business service or application
+- Significant number of users unable to perform essential job functions
+- Important feature or functionality not working properly
+- Security vulnerability with potential for exploitation
+
+P3 - Medium: 
+- Partial service disruption affecting a subset of users
+- Recurring issues with moderate business impact
+- Non-critical application or service malfunctioning
+- Request for a high-priority change or configuration update
+
+P4 - Low:
+- Isolated or intermittent issues with minimal business impact
+- Requests for information, advice or minor enhancements
+- General troubleshooting or "how-to" questions
+- Issues with non-essential tools or peripherals
+
+P5 - Minimal:
+- Cosmetic problems or typos with no functional impact
+- Feature requests or suggestions for future improvements
+- Questions about policies, procedures or documentation
+- Issues with employee-owned devices or personal applications
+
+The specific criteria and thresholds for each priority level can vary between organizations based on their IT service management policies and business needs. The goal is to ensure the most critical incidents are addressed first to minimize disruption and impact.
+
+
+Okay, let's discuss the differences between ticket ownership and resolution ownership when it comes to incident management:
+
+Ticket Ownership:
+- Refers to who is primarily responsible for managing and tracking the incident ticket itself.
+- This includes things like assigning the ticket, updating its status, adding notes, and ensuring it progresses through the resolution workflow.
+- The ticket owner is typically the first-line support agent or service desk personnel who receives and triages the initial incident report.
+- The ticket owner acts as the central point of contact for the user and coordinates the overall incident response.
+
+Resolution Ownership:
+- Refers to who is responsible for actually resolving or fixing the underlying technical issue.
+- This is typically a subject matter expert, specialist, or technical team who has the necessary skills and access to diagnose and remediate the problem.
+- The resolution owner may be a different person or team than the ticket owner, especially for more complex incidents.
+- The resolution owner provides updates to the ticket owner on the investigation and restoration progress.
+- Ultimately, the resolution owner is accountable for fully resolving the incident to the user's satisfaction.
+
+The key differences are:
+- Ticket ownership is about managing the incident workflow, while resolution ownership is about fixing the technical problem.
+- Ticket owners coordinate the overall process, while resolution owners provide the technical expertise.
+- There may be a handoff or collaboration between ticket and resolution owners to fully address the incident.
+
+Maintaining clear ownership for both the ticket and the resolution is crucial for effective incident management and ensuring timely restoration of services.
+
+Absolutely, let's break down the key responsibilities for each of those IT service desk roles in the context of incident management:
+
+IT Service Desk Manager:
+- Oversees the overall incident management process and service desk operations
+- Sets policies, procedures, and service level agreements (SLAs) for incident response
+- Ensures the service desk is properly staffed, trained, and equipped to handle incidents
+- Monitors incident metrics, identifies trends, and drives continuous improvement
+- Communicates with IT leadership and business stakeholders on incident status and mitigation
+
+IT Service Desk Shift Lead:
+- Supervises and coordinates the work of the service desk agents during their shift
+- Manages the incoming incident queue, prioritizes tickets, and assigns to agents
+- Provides guidance and escalates complex issues to subject matter experts
+- Monitors agent performance and provides coaching/feedback
+- Communicates shift updates and responds to inquiries from stakeholders
+
+IT Service Desk Agent:
+- Acts as the first point of contact for users reporting incidents
+- Logs new incident tickets, gathers details, and categorizes the issue
+- Attempts to resolve incidents through basic troubleshooting and knowledge base
+- Escalates unresolved or complex incidents to appropriate technical teams
+- Updates ticket statuses, adds notes, and communicates resolution progress to users
+- Closes tickets once the incident is fully resolved to the user's satisfaction
+
+In summary, the manager oversees the entire incident management process, the shift lead coordinates the daily operations, and the agents handle the frontline incident response and resolution. Effective collaboration between these roles is crucial for providing efficient and high-quality incident management services.
+
+
