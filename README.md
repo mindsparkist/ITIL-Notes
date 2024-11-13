@@ -643,6 +643,8 @@ In summary, the manager oversees the entire incident management process, the shi
 
 A problem ticket is a type of incident ticket that is created to investigate and address the underlying cause of recurring or complex incidents, rather than just resolving the immediate symptoms.
 
+Lets Say we have a network outage and a lot of our customer are calling to SD now the SD people have 100+ tickets to work on so individually we cannot take every ticket and work on it but we can assume there may be a big outage going on so we can Open a problem ticket and attached all INC to the Problem ticket so we can Do An RCA and investigate the issue further, and once we have troubleshooted the issue with an work around we can quickly go ahead and resolved the Problem Ticket and all the attached INC`s will get Resolved.  
+
 The key differences between a problem ticket and a regular incident ticket are:
 
 When to Create a Problem Ticket:
