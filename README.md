@@ -945,6 +945,8 @@ Best Practices:
 - Notification system for upcoming expirations
 - Audit trail of status changes
 
+![ITIL Notes Screenshot](https://github.com/mindsparkist/ITIL-Notes/blob/SNOW-ITIL/Screenshot_20241114_015538_YouTube.jpg)
+
 This lifecycle management ensures that knowledge base content remains current and relevant while maintaining historical information when needed.
 
 
