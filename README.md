@@ -1391,8 +1391,13 @@ Benefits:
 
 Would you like me to elaborate on any specific part of this process?
 
+![WhatsApp Image](https://raw.githubusercontent.com/mindsparkist/ITIL-Notes/SNOW-ITIL/WhatsApp%20Image%202024-11-17%20at%2013.57.13_70ba54be.jpg)
 
+![WhatsApp Image](https://github.com/mindsparkist/ITIL-Notes/blob/SNOW-ITIL/Screenshot_20241117_111709_YouTube.jpg)
 
+![WhatsApp Image](https://github.com/mindsparkist/ITIL-Notes/blob/SNOW-ITIL/Screenshot_20241117_111643_YouTube.jpg)
+
+![WhatsApp Image](https://github.com/mindsparkist/ITIL-Notes/blob/SNOW-ITIL/Screenshot_20241117_111600_YouTube.jpg)
 
 
 
