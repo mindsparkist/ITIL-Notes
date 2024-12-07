@@ -1400,5 +1400,32 @@ Would you like me to elaborate on any specific part of this process?
 ![WhatsApp Image](https://github.com/mindsparkist/ITIL-Notes/blob/SNOW-ITIL/Screenshot_20241117_111600_YouTube.jpg)
 
 
+## PPM and Capacity Management
+
+### PPM (Project Portfolio Management)
+PPM is a strategic approach to managing a portfolio of projects. It involves selecting, prioritizing, and managing projects to align with an organization's strategic goals.
+
+**Key aspects of PPM:**
+
+* **Project Selection:** Prioritizing projects based on their alignment with business objectives.
+* **Resource Allocation:** Assigning resources (people, budget, etc.) to projects effectively.
+* **Risk Management:** Identifying and mitigating potential risks associated with projects.
+* **Portfolio Optimization:** Balancing the portfolio of projects to achieve optimal results.
+* **Performance Monitoring:** Tracking project progress and performance metrics.
+
+### Capacity Management
+Capacity management is the practice of ensuring that an organization has the necessary resources (people, hardware, software) to meet current and future demands. It involves:
+
+* **Demand Forecasting:** Predicting future resource needs based on business plans and market trends.
+* **Resource Planning:** Allocating resources effectively to meet demand.
+* **Capacity Planning:** Determining the required capacity to handle future workloads.
+* **Performance Monitoring:** Tracking resource utilization and identifying potential bottlenecks.
+* **Capacity Optimization:** Implementing strategies to improve resource utilization and reduce costs.
+
+**The Relationship Between PPM and Capacity Management:**
+
+PPM and capacity management are closely intertwined. Effective PPM requires careful capacity planning to ensure that resources are available to support the selected projects. Conversely, capacity management decisions are often influenced by the project portfolio and its resource needs.
+
+By effectively managing both PPM and capacity, organizations can optimize resource utilization, improve project success rates, and achieve their strategic goals.
 
 
