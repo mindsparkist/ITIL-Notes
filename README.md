@@ -1836,4 +1836,74 @@ This process ensures:
 
 The key is to maintain a balance between swift resolution and proper process following, ensuring both immediate recovery and long-term improvement.
 
+Here’s an explanation of these terms in simple, beginner-friendly language for an entry-level tech support professional:  
+
+---
+
+### **1. Average TTP (Time to Pickup)**  
+**What it means:**  
+This measures how long it takes for a ticket to be assigned to someone after it’s created.  
+
+**Why it matters:**  
+If tickets sit unassigned for a long time, customers might feel ignored. A shorter TTP means we’re quickly addressing customer issues.  
+
+**What you can do:**  
+Make sure tickets are picked up promptly when they appear in the queue.  
+
+---
+
+### **2. Average TTC (Time to Contact)**  
+**What it means:**  
+This tracks the time between a ticket being assigned to you and when you first contact the customer (e.g., calling, emailing, or messaging them).  
+
+**Why it matters:**  
+Quick contact reassures customers that their issue is being handled. If the TTC is high, it might mean customers are waiting too long to hear from us.  
+
+**How to make it accurate:**  
+Whenever you reach out to a customer, immediately add a note to the ticket, like:  
+- “Messaged customer.”  
+- “Left voicemail.”  
+This helps ensure the TTC reflects when you actually contacted the customer.  
+
+---
+
+### **3. Average CTTR (Customer Time to Resolution)**  
+**What it means:**  
+This measures the time from when a ticket is created to when you propose a solution to the customer.  
+
+**Why it matters:**  
+It shows how long it takes to resolve issues from the customer’s perspective. Most customers care about how quickly their problem gets fixed, so a shorter CTTR is better.  
+
+**Things to keep in mind:**  
+Sometimes, customers might reject your proposed solution, but this still gives a good idea of how quickly issues are being addressed overall.  
+
+---
+
+### **4. Average 3TR (Tech Time to Resolution)**  
+**What it means:**  
+This measures the time from when a ticket is assigned to you until you propose a solution. It focuses only on your time working on the ticket, ignoring any time it sat unassigned.  
+
+**Why it matters:**  
+It reflects how quickly you personally resolve issues after the ticket lands on your plate.  
+
+**Things to keep in mind:**  
+Like CTTR, this might not be perfect if a customer rejects a solution, but it still gives a good measure of your speed and efficiency.  
+
+---
+
+### **5. FCR (First Contact Resolution)**  
+**What it means:**  
+This refers to solving the customer’s problem on the very first contact, without needing multiple follow-ups.  
+
+**Why it matters:**  
+FCR is a big deal for customer satisfaction. The faster we can resolve issues in one go, the happier our customers will be.  
+
+---
+
+### **Why These Metrics Are Important**  
+These measurements help the team understand where we can improve. For example:  
+- If your **TTC** is high, you might need to focus on contacting customers faster after picking up a ticket.  
+- If your **3TR** is high, it could mean you’re taking longer to solve issues compared to others, and that could be an opportunity for coaching or training.  
+
+By keeping an eye on these numbers, you can improve your performance and help the team deliver better service to our customers. 😊  
 
