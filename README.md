@@ -331,6 +331,57 @@ As an MIM, you sit at the center of two critical groups:
 
 ### **Next Step:**
 
+This image provides an excellent visual framework for **Functional and Hierarchical Escalation**. It breaks down the chaotic "Major Incident" into a structured wing-based investigation.
+
+Here is the professional breakdown of the steps as illustrated in your **Butterfly Investigation** model:
+
+---
+
+## **The Butterfly Investigation: Escalation & Resolution Steps**
+
+### **Phase 1: Pre-Escalation (The Antennae)**
+
+Before the bridge is fully mobilized, the MIM must define the scope of the "flight":
+
+* **Issue Identification:** Clearly define the problem statement—what is actually broken?
+* **Impact Assessment:** Determine the severity (P1/P2) and identify which business services are down.
+* **Team Identification:** Pinpoint exactly which technical teams (Database, Network, Cloud) are required for the bridge.
+
+---
+
+### **Phase 2: Initial Investigation (The Upper Wings)**
+
+Once the "Escalation" spine is active and teams are on-call:
+
+* **SME Activation:** Engage Subject Matter Experts (SMEs) to perform an immediate deep-dive.
+* **Initial Findings:** Gather the first set of diagnostic data to understand the "Why" behind the failure.
+
+---
+
+### **Phase 3: Troubleshooting & Strategic Planning (The Lower Wings)**
+
+This is where the MIM drives the "Plan of Action":
+
+* **Collaborative Planning:** Work with SMEs, SDEs (Software Development Engineers), and QA to validate potential fixes.
+* **Parallel Pathing (Plan A & Plan B):** Always maintain a primary restoration plan (Plan A) and a contingency/rollback plan (Plan B) to mitigate the "Butterfly Effect" of a failed fix.
+* **Time Management:** Set strict "Reconvene" times to validate progress and move closer to service restoration.
+
+---
+
+### **Phase 4: Closure & Documentation (The Base)**
+
+The incident isn't over until the documentation is as solid as the fix:
+
+* **The "Why, How, What" Summary:** Summarize the root cause, the resolution steps taken, and the specific plan executed.
+* **Lifecycle Handover:** Determine if the incident requires a transition into **Problem Management** or **Change Management** for a permanent architectural fix.
+
+---
+
+### **Professional Summary for your Documentation:**
+
+> "The Butterfly Investigation model ensures that escalation is not just a call for help, but a structured expansion of technical expertise. By balancing initial investigation with dual-path planning (Plan A/B), the MIM maintains control over the incident lifecycle from identification to validated closure."
+
+
 the **"Butterfly Investigation"** image, 
 
 ![Butterfly Investigation Diagram](https://raw.githubusercontent.com/mindsparkist/ITIL-Notes/refs/heads/main/Butterfly.png)
