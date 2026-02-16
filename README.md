@@ -85,4 +85,55 @@ Before any button is pushed, always ask:
 This question proves you are thinking like a **Business Analyst**. It shows you aren't just looking at a server; you are looking at the entire business service map.
 
 ---
+In Change Management, the **7 Rs** serve as a critical checklist for the Change Advisory Board (CAB) and the MIM to evaluate the risk and necessity of a proposed fix. This framework ensures that no "Butterfly Effect" is overlooked before a change is authorized.
+
+---
+
+## **The 7 Rs of Change Management**
+
+### **1. Who RAISED the change?**
+
+* **The Goal:** Identify the stakeholder or system that initiated the request.
+* **MIM Context:** Knowing if a change was raised by a Senior Engineer or an automated monitoring tool helps determine the initial level of technical trust.
+
+### **2. What is the REASON for the change?**
+
+* **The Goal:** Understand the "Why." Is it to fix a Major Incident, or is it a routine update?
+* **MIM Context:** In an emergency, the reason is always **Service Restoration**.
+
+### **3. What is the RETURN required?**
+
+* **The Goal:** Define the expected outcome or business benefit.
+* **MIM Context:** The "Return" is the elimination of downtime and the return to "Normal Service Operation."
+
+### **4. What are the RISKS involved?**
+
+* **The Goal:** Identify potential failures or the "Butterfly Effect."
+* **MIM Context:** This is the most important "R." You must ask: *"If we apply this patch, what is the worst-case scenario?"*
+
+### **5. What RESOURCES are required?**
+
+* **The Goal:** Determine the people, tools, and time needed to implement the change.
+* **MIM Context:** Do we have the right SMEs on the bridge to execute this fix right now?
+
+### **6. Who is RESPONSIBLE for the build and implementation?**
+
+* **The Goal:** Assign clear accountability.
+* **MIM Context:** In your incident log, you must document exactly who is "pressing the button" and who is validating the result.
+
+### **7. What is the RELATIONSHIP with other changes?**
+
+* **The Goal:** Check for dependencies and conflicts in the CMDB.
+* **MIM Context:** Are there other teams performing maintenance that might conflict with our emergency fix?
+
+---
+
+### **Applying the 7 Rs on an Emergency Bridge**
+
+As an entry-level MIM, you don't need to write a long essay for each "R." Instead, use them as a **rapid-fire mental checklist** before you give the "Go" signal:
+
+> *"Team, we know who **Raised** this and the **Reason**. We know the **Return** is service restoration. Now, let's talk **Risk**: what are the **Relationships** with other CIs, do we have the **Resources** on the line, and who is **Responsible** for the back-out plan?"*
+
+---
+
 
