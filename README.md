@@ -135,5 +135,72 @@ As an entry-level MIM, you don't need to write a long essay for each "R." Instea
 > *"Team, we know who **Raised** this and the **Reason**. We know the **Return** is service restoration. Now, let's talk **Risk**: what are the **Relationships** with other CIs, do we have the **Resources** on the line, and who is **Responsible** for the back-out plan?"*
 
 ---
+While ITIL v3/2011 originally defined **26 processes** organized into 5 lifecycle stages, it is important for an entry-level MIM to know that ITIL 4 has evolved these into **34 Practices**.
+
+However, to master your documentation and pass standard certifications, understanding the classic 26-process map is essential. Here is the crisp, professional breakdown:
+
+---
+
+## **The 26 Processes of ITIL (by Lifecycle Stage)**
+
+### **1. Service Strategy (5 Processes)**
+
+*Focus: Defining the market, business goals, and financial viability.*
+
+1. **Strategy Management for IT Services:** Developing the service provider's strategy.
+2. **Service Portfolio Management:** Managing the entire suite of services.
+3. **Financial Management for IT Services:** Managing budgeting and accounting.
+4. **Demand Management:** Understanding and influencing customer demand.
+5. **Business Relationship Management (BRM):** Maintaining positive links with customers.
+
+### **2. Service Design (8 Processes)**
+
+*Focus: Designing the service, architecture, and governance.*
+6.  **Design Coordination:** Ensuring consistent design across all projects.
+7.  **Service Level Management (SLM):** Negotiating SLAs and ensuring they are met.
+8.  **Service Catalogue Management:** Ensuring an accurate list of live services is available.
+9.  **Availability Management:** Ensuring services meet agreed availability needs.
+10. **Capacity Management:** Ensuring IT resources meet performance/throughput targets.
+11. **IT Service Continuity Management (ITSCM):** Managing disaster recovery and business continuity.
+12. **Information Security Management:** Protecting data, assets, and services.
+13. **Supplier Management:** Managing third-party vendors and contracts.
+
+### **3. Service Transition (7 Processes)**
+
+*Focus: Building, testing, and deploying services.*
+14. **Transition Planning and Support:** Planning the resources for a release.
+15. **Change Management:** Controlling the lifecycle of all changes (The 7 Rs).
+16. **Service Asset and Configuration Management (SACM):** Managing the **CMDB** and **CIs**.
+17. **Release and Deployment Management:** Moving changes into the live environment.
+18. **Service Validation and Testing:** Ensuring the service meets requirements.
+19. **Change Evaluation:** Assessing the performance of a change after implementation.
+20. **Knowledge Management:** Ensuring the right info is available (includes the **KEDB**).
+
+### **4. Service Operation (5 Processes)**
+
+*Focus: Daily delivery and support (The "Engine Room" for MIM).*
+21. **Event Management:** Monitoring CIs to identify state changes.
+22. **Incident Management:** Restoring service ASAP (includes **MIM**).
+23. **Request Fulfillment:** Handling Service Requests.
+24. **Problem Management:** Finding the root cause (Reactive vs. Proactive).
+25. **Access Management:** Granting or denying users access to services.
+
+### **5. Continual Service Improvement (1 Process)**
+
+*Focus: Incremental and large-scale improvements.*
+26. **The 7-Step Improvement Process:** Identifying, defining, gathering, processing, analyzing, presenting, and implementing improvements.
+
+---
+
+## **The MIM "Survival" List**
+
+As an entry-level MIM, you don't need to be an expert in all 26. You must master these **six** above all others:
+
+1. **Incident Management:** Your primary function.
+2. **Problem Management:** To ensure the fire doesn't restart.
+3. **Change Management:** To authorize your emergency fixes.
+4. **Service Asset & Configuration Management:** To understand the "Butterfly Effect" in the CMDB.
+5. **Service Level Management:** To know how much "downtime" the business can tolerate (SLA).
+6. **Knowledge Management:** To use and update the KEDB.
 
 
