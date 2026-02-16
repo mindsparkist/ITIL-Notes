@@ -338,4 +338,55 @@ You now have a complete, professional guide covering the entire ITIL lifecycle f
 3. The **Governance** (7 Rs, KEDB, CMDB).
 4. The **Real-World Examples** (Emergency vs. Standard).
 
+In a professional IT Service Management (ITSM) environment, a failed change is one of the most common triggers for both a **Major Incident** and a subsequent **Problem Ticket**.
 
+When a change fails, it means the "solution" intended to improve the system actually caused a new "unplanned interruption."
+
+---
+
+## **The Failed Change Workflow**
+
+### **1. The Incident Trigger (Reactive)**
+
+If a Change (Standard, Normal, or Emergency) is implemented and immediately causes a service outage:
+
+* **MIM Action:** You must immediately declare a **Major Incident**.
+* **The First Priority:** Execute the **Back-out Plan** (Rollback) to restore the previous stable state of the Configuration Item (CI).
+
+### **2. Creating the Problem Ticket**
+
+Once the service is restored (or even while the outage is active), a **Problem Ticket** is created specifically for this failed change.
+
+**Why create a Problem ticket for a failed change?**
+
+* **To Investigate the "Why":** Why did a change that was tested and approved fail in the live environment?
+* **Post-Implementation Review (PIR):** To identify if the failure was due to a technical bug, incorrect CMDB data, or human error during implementation.
+* **Preventing Recurrence:** To update the **Change Management** process so that similar changes don't fail in the future.
+
+---
+
+## **Example: From Failed Change to Problem Ticket**
+
+| Stage | Action |
+| --- | --- |
+| **The Change** | An engineer implements a "Normal Change" to upgrade the company’s firewall firmware at 2:00 AM. |
+| **The Failure** | At 2:05 AM, all internet traffic to the headquarters drops. The change has failed. |
+| **MIM Response** | You are paged. You order an immediate **Rollback**. The engineer reverts the firmware to the previous version. Service is restored by 2:15 AM. |
+| **Problem Creation** | You log a **Problem Ticket** linked to that specific Change Request (CR) and the Firewall **CI**. |
+| **Investigation** | The Problem Manager uses the **5 Whys**: *Why did it fail?* The new firmware wasn't compatible with the specific hardware model recorded in the **CMDB**. |
+| **KEDB Update** | A "Known Error" is created: *"Do not apply Firmware v5.2 to Router Model X; leads to immediate port shutdown."* |
+
+---
+
+## **The "Butterfly Effect" Connection**
+
+A failed change is the ultimate example of the **Butterfly Effect**. A small line of code in an authorized update can crash an entire global business service.
+
+* **The MIM's Role:** During the Problem investigation, you help identify if the "Butterfly Investigation" performed during the Change assessment was insufficient.
+* **The Goal:** Turn the "Failed Change" into a "Learning Opportunity" that improves the **Standard Operating Procedures (SOPs)**.
+
+---
+
+### **Professional Summary for your Documentation:**
+
+> "A failed change is a high-priority trigger for Problem Management. It necessitates a formal investigation to determine whether the failure was a result of poor testing, inaccurate CMDB dependency mapping, or an unforeseen technical conflict, ensuring future changes are executed with higher confidence."
