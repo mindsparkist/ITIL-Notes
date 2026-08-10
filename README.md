@@ -390,3 +390,5 @@ A failed change is the ultimate example of the **Butterfly Effect**. A small lin
 ### **Professional Summary for your Documentation:**
 
 > "A failed change is a high-priority trigger for Problem Management. It necessitates a formal investigation to determine whether the failure was a result of poor testing, inaccurate CMDB dependency mapping, or an unforeseen technical conflict, ensuring future changes are executed with higher confidence."
+
+[YouTube Video For Change Management](https://www.youtube.com/watch?v=cEaHth-PlXA&list=PLrmQ9R9YkZmsZyWW2mLcEv_vPL-5Ftibw&index=1)
