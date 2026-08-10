@@ -209,3 +209,4 @@ Below is a professional, generic template tailored for IT Service Management.
 
 > "The Fishbone template provides a 360-degree view of the IT ecosystem, ensuring that the investigation covers all possible variables from technical infrastructure to human process. It is the primary tool for moving an incident from a 'Symptom' in the KEDB to a 'Root Cause' in a Problem Record".
 
+[YouTube Video - For Problem Management Implementation | Root Cause Analysis & Fix Process ](https://youtu.be/DYMQWi_B6Uo?list=PL-IAtKPYckONrxAaknkHTWD0OVP88GluA)
